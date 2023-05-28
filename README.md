@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/producthunt-coding-hacking-hacker-time-3oEjHWbXcpeKhTktXi" width="100"/>
+  <img src="[https://giphy.com/gifs/producthunt-coding-hacking-hacker-time-3oEjHWbXcpeKhTktXi](https://media.giphy.com/media/xT8qB2HYA1vVSxooSY/giphy.gif)" width="100"/>
 </div>
 
 <div id="badges" alighn="center">
