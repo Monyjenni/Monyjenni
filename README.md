@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif](https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" alighn="center">
   <a href="https://www.linkedin.com/in/chansovanmony-yoeun-140015194/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
