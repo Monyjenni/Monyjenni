@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.tenor.com/gVCgzpv0B7AAAAAC/cat-cute.gif" width="1000" height= "500"/>
+  <img src="https://media.tenor.com/gVCgzpv0B7AAAAAC/cat-cute.gif" width="1200" height= "700"/>
 </div>
 
 <div id="badges" alighn="center">
