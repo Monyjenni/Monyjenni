@@ -20,7 +20,7 @@
 
 ### Hi there! 👋
 
-I'm Monyjenni, and I'm passionate about technology and coding. Welcome to my GitHub profile!
+I'm Chansovanmony Yoeun (Jennie) , and I'm passionate about technology and coding. Welcome to my GitHub profile!
 
 ### 🔭 What I'm Currently Working On
 
@@ -49,12 +49,29 @@ You can reach out to me through the following platforms:
 - Facebook: [Facebook Profile](https://www.facebook.com/yoeun.chansovanmony)
 - Twitter: [Twitter Profile](https://twitter.com/jennie_milkyway)
 
-### 😄 Pronouns
-
-You can refer to me using she/her pronouns.
-
 ### ⚡ Fun Fact
 
 Here's a fun fact about me: I can sometimes be both a white swan and a black swan.🐱
 
-### :fire: My Stats
+### 💼 Skills
+
+I'd have tried this variety of programming languages and technologies, including:
+
+- **Python** ![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
+- **Java** ![Java Logo](https://www.oracle.com/a/ocom/img/cb71-java-logo.png)
+- **C++** ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/512px-ISO_C%2B%2B_Logo.svg.png)
+- **Vue.js** ![Vue.js Logo](https://vuejs.org/images/logo.png)
+- **Vuetify** ![Vuetify Logo](https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-300.png)
+- **Kotlin** ![Kotlin Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/512px-Kotlin_Icon.png)
+
+- **JavaScript** ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png)
+
+- **MySQL** ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/1920px-MySQL.svg.png)
+
+- **Dart** ![Dart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dart_programming_language_logo.svg/512px-Dart_programming_language_logo.svg.png)
+
+- **Node.js** ![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/512px-Node.js_logo.svg.png)
+
+- **MongoDB** ![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg)
+
