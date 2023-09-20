@@ -24,11 +24,11 @@ I'm Monyjenni, and I'm passionate about technology and coding. Welcome to my Git
 
 ### 🔭 What I'm Currently Working On
 
-I'm currently working on various coding projects, including web development and machine learning. I love to explore new technologies and expand my skillset.
+I'm currently working on Smart Watering Irrigation WebApp, E-Consultation, and Attendance and Score Report Analysis.
 
 ### 🌱 What I'm Currently Learning
 
-I'm always eager to learn and stay up-to-date with the latest advancements in the tech world. Currently, I'm focusing on enhancing my knowledge in areas like data science and cloud computing.
+Dynamic Frontend and LeetCode
 
 ### 👯 Looking to Collaborate On
 
@@ -36,7 +36,7 @@ I'm open to collaborating on exciting projects with like-minded individuals. If 
 
 ### 🤔 Looking for Help With
 
-If you have expertise in areas I'm currently learning or working on, I'd greatly appreciate your guidance and mentorship. Let's learn and grow together!
+If you have expertise in areas I'm currently learning or working on, please consider being my advisor or mentor. I would greatly appreciate it. Let's grow together
 
 ### 💬 Ask Me About
 
@@ -55,6 +55,6 @@ You can refer to me using she/her pronouns.
 
 ### ⚡ Fun Fact
 
-Here's a fun fact about me: I'm a cat lover, as you can probably tell from the cute cat GIF in the header! 🐱
+Here's a fun fact about me: I can sometimes be both a white swan and a black swan.🐱
 
 ### :fire: My Stats
