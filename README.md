@@ -3,7 +3,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/gVCgzpv0B7AAAAAC/cat-cute.gif" width="900" height="600" alt="Hello, I'm Monyjenni!"/>
+  <img src="https://giphy.com/gifs/funimation-eclipse-3owvKlBvKezRyIyyyc" width="900" height="600" alt="Hello, I'm Monyjenni!"/>
 </div>
 
 <div id="badges" align="center">
