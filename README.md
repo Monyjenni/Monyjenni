@@ -3,7 +3,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/funimation-eclipse-3owvKlBvKezRyIyyyc" width="900" height="600" alt="Hello, I'm Monyjenni!"/>
+  <img src="https://giphy.com/gifs/funimation-eclipse-3owvKlBvKezRyIyyyc" width="600" height="300" alt="Hello, I'm Monyjenni!"/>
 </div>
 
 <div id="badges" align="center">
@@ -20,7 +20,7 @@
 
 ### Hi there! 👋
 
-I'm Chansovanmony Yoeun (Jennie) , and I'm passionate about technology and coding. Welcome to my GitHub profile!
+I'm Chansovanmony Yoeun (Jennie), and I'm passionate about technology and coding. Welcome to my GitHub profile!
 
 ### 🔭 What I'm Currently Working On
 
@@ -28,7 +28,7 @@ I'm currently working on Smart Watering Irrigation WebApp, E-Consultation, and A
 
 ### 🌱 What I'm Currently Learning
 
-Dynamic Frontend and LeetCode
+Dynamic Frontend, Mobile Application, and LeetCode
 
 ### 👯 Looking to Collaborate On
 
