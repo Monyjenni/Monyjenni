@@ -51,7 +51,7 @@ You can reach out to me through the following platforms:
 
 ### ⚡ Fun Fact
 
-Here's a fun fact about me: I watch dark fantasy anime plus u can enter the chart if you are also a berserk fan.🐱
+Here's a fun fact about me: I watch dark fantasy anime plus u can enter the chat if you are also a berserk fan.🐱
 
 
 
