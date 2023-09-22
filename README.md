@@ -22,6 +22,10 @@
 
 I'm Chansovanmony Yoeun (Jennie).I'm 19 years old, and I'm passionate about technology and coding. Welcome to my GitHub profile!
 
+### ⚡ Fun Fact
+
+Here's a fun fact about me: Enter the chat, and let's be friends if you watch dark fantasy and manipulation anime, especially if you're a Berserk fan.🐱
+
 ### 🔭 What I'm Currently Working On
 
 I'm currently working on Smart Watering Irrigation WebApp, E-Consultation, and Attendance and Score Report Analysis.
@@ -49,9 +53,6 @@ You can reach out to me through the following platforms:
 - Facebook: [Facebook Profile](https://www.facebook.com/yoeun.chansovanmony)
 - Twitter: [Twitter Profile](https://twitter.com/jennie_milkyway)
 
-### ⚡ Fun Fact
-
-Here's a fun fact about me: I watch dark fantasy and manipulation anime plus you can enter the chat. And let's be friends, if you are also a berserk fan.🐱
 
 
 
