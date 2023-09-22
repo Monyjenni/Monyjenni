@@ -40,18 +40,18 @@ If you have expertise in areas I'm currently learning and working on, please con
 
 ### 💬 Ask Me About
 
-You can ask me about anything related to programming, technology, or personal that i can share w/ . I'm here to help and share knowledge!
+You can ask me about anything related to programming, technology, or personal that I can share w/ . I'm here to help and share knowledge!
 
 ### 📫 How to Reach Me
 
 You can reach out to me through the following platforms:
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chansovanmony-yoeun-140015194/)
+- LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/chansovanmony-yoeun-140015194/)
 - Facebook: [Facebook Profile](https://www.facebook.com/yoeun.chansovanmony)
 - Twitter: [Twitter Profile](https://twitter.com/jennie_milkyway)
 
 ### ⚡ Fun Fact
 
-Here's a fun fact about me: I watch dark fantasy anime plus u can enter the chat if you are also a berserk fan.🐱
+Here's a fun fact about me: I watch dark fantasy and manipulation anime plus you can enter the chat. And let's be friends, if you are also a berserk fan.🐱
 
 
 
