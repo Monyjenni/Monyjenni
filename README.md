@@ -51,7 +51,7 @@ You can reach out to me through the following platforms:
 
 ### ⚡ Fun Fact
 
-Here's a fun fact about me: I can sometimes be both a white swan and a black swan.🐱
+Here's a fun fact about me: I watch dark fantasy anime plus u can enter the chart if you are also a berserk fan.🐱
 
 
 
