@@ -36,6 +36,8 @@
           
 </div>
 
+<br>
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Monyjenni&theme=bear" alt="GitHub Streak" /></a>
 
 ### Hi there! 👋
@@ -46,7 +48,7 @@ Recently graduated with a Higher Diploma in Software Development at E2STEM Educa
 ### ⚡ Fun Fact
 
 Here's a fun fact about me: Enter the chat, and let's be friends if you are a Manga and Anime Fan, especially if you're a Berserk fan.🐱
-Cat Mama UwW
+Cat Mama UwU
 
 ### 🔭 What I'm Currently Working On
 
