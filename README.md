@@ -39,9 +39,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Monyjenni&theme=bear" alt="GitHub Streak" /></a>
 
-## Common Languages
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Monyjenni&theme=bear)](https://git.io/streak-stats)
-
 ### Hi there! 👋
 
 I'm Chansovanmony Yoeun (Jennie).I'm 20 years old, and I'm passionate about technology and coding. Welcome to my GitHub profile!
