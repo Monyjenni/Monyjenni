@@ -42,7 +42,7 @@
 
 ### Hi there! 👋
 
-I'm Chansovanmony Yoeun (Jennie).I'm 20 years old, and I'm passionate about technology and coding. Welcome to my GitHub profile!
+I'm Chansovanmony Yoeun (Jennie).I'm 20 years old, and I'm a simple girl who is passionate about technology and coding. Welcome to my GitHub profile!
 Recently graduated with a Higher Diploma in Software Development at E2STEM Education Cambodia, and I'm currently a year 3 student of IT Engineering at RUPP.
 
 ### ⚡ Fun Fact
