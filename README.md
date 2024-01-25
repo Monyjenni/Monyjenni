@@ -64,7 +64,7 @@ I'm open to collaborating on exciting projects with like-minded individuals. If 
 
 ### 🤔 Looking for Help With
 
-If you have expertise in areas I'm currently learning and working on, please consider being my advisor or mentor. I would greatly appreciate it. Let's grow together
+If you have expertise in areas I'm currently learning and working on, please consider being my adviser or mentor. I would greatly appreciate it. Let's grow together!!!
 
 ### 💬 Ask Me About
 
