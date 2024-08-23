@@ -59,7 +59,7 @@ Dynamic Frontend, Mobile Application, and LeetCode
 
 ### 👯 Looking to Collaborate On
 
-I'm open to collaborating on exciting projects with like-minded individuals. If you have an interesting project idea or need help with coding, feel free to reach out!
+I'm open to collaborating on exciting projects with like-minded individuals.
 
 ### 🤔 Looking for Help With
 
